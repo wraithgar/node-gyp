@@ -1,5 +1,12 @@
 # Changelog
 
+### [8.4.1](https://www.github.com/wraithgar/node-gyp/compare/v8.4.0...v8.4.1) (2021-11-16)
+
+
+### Doc
+
+* fix typo in powershell node-gyp update ([787cf7f](https://www.github.com/wraithgar/node-gyp/commit/787cf7f8e5ddd5039e02b64ace6b7b15e06fe0a4))
+
 ## [8.4.0](https://www.github.com/nodejs/node-gyp/compare/v8.3.0...v8.4.0) (2021-11-05)
 
 
